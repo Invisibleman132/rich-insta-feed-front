@@ -1,0 +1,44 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+:root {
+  --color-purple: #6357ff;
+  --color-black: #2c2c2c;
+}
+
+html {
+  font-family: "Lato", sans-serif;
+  color: white;
+  background: #6357ff;
+}
+h1,
+.h1 {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 43px;
+}
+h2,
+.h2 {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+}
+h3,
+.h3 {
+  font-size: 24px;
+  line-height: 29px;
+}
+h4,
+.h4 {
+  font-size: 18px;
+  line-height: 22px;
+}
+h5,
+.h5 {
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 86px;
+}

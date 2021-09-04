@@ -1,0 +1,15 @@
+.container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row-reverse;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: white;
+}
+
+.links {
+  padding: 0px 15px 0px 15px;
+}
